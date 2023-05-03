@@ -1,15 +1,7 @@
 ﻿@import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
 
 html, body {
-    background-color: hotpink;
-    font-family: 'Comic Sans MS', Helvetica, Arial, sans-serif;
-    font-size: xx-large;
-    color: red;
-}
-
-article, main, .content {
-    background-color: hotpink !important;
-    color: red !important;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 h1:focus {
@@ -27,7 +19,7 @@ a, .btn-link {
 }
 
 .content {
-	color: #ccc;
+    color: #ccc;
     padding-top: 1.1rem;
     background-color: #222;
 }
